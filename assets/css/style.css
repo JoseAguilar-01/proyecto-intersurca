@@ -1,0 +1,23 @@
+.hero,
+.hero div {
+	background-color: #f4f4f4;
+}
+.card img {
+	width: auto;
+	height: 10rem;
+}
+.territorio {
+	height: auto;
+	background-image: url(../img/mapa-venezolano-02.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+	box-shadow: -1px 10px 17px 5px rgba(122, 121, 122, 1);
+}
+.territorio-mobile {
+	box-shadow: -1px 10px 24px 2px rgba(122, 121, 122, 1);
+}
+/* .territorio-paragraph {
+	text-align: justify;
+} */
